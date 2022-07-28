@@ -9,7 +9,7 @@ After graduating I started Anomaly, a software engineering and design firm where
 
 In the early 2000s I built [prestans](https://github.com/anomaly/prestans), a Python framework that allowed building RESTful APIs with features like [payload validation](https://prestans.readthedocs.io/en/latest/validation.html), [partial content rendering](https://prestans.readthedocs.io/en/latest/handlers.html#minifying-content), attributes that you will find in many modern frameworks. It also featured what we called [Blueprint](https://github.com/anomaly/prestans/issues/92) an ideal akin to Swagger. The framework also featured tight integration with [Google Closure](https://developers.google.com/closure) and allowed us to build single page apps before they were the cool thing to do.
 
-Anomaly is boastful of being of [Linode](https://www.anomaly.ltd/capabilities/linode/) and [Stripe](https://www.anomaly.ltd/capabilities/stripe/)'s early partners, advocating the use of the alternative cloud and developer first approach to payments.
+Anomaly is boastful of being [Linode](https://www.anomaly.ltd/capabilities/linode/) and [Stripe](https://www.anomaly.ltd/capabilities/stripe/)'s early partners, advocating the use of the alternative cloud and developer first approach to payments.
 
 Active open source projects include:
 - [Anomaly Labs](https://github.com/anomaly), a set of reference repositories for building Web applications using Python, Postgres and React, and managing infrastructure using Terraform.
