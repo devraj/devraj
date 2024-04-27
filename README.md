@@ -1,4 +1,4 @@
-# Design and Engineering [@Anomaly](https://github.com/anomaly), Adjunct Professional, [Charles Sturt University](https://www.csu.edu.au)
+# Design and Engineering [@Anomaly](https://github.com/anomaly)
 
 I am software engineer with over 20 years of experience. I've been tinkering with computers sine 1988, when my dad decided to digitise his business after a visit to Japan, where he realised the potenital of what these machines could do. My first go at programming was in the early nineties using a now defunct programming language called [FoxPro](https://en.wikipedia.org/wiki/FoxPro). In the mid nineties I rewrote a business management software for my dad's business which is now available on the [Github](https://github.com/devraj/zoom) as relic.
 
