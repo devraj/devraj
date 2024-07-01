@@ -12,5 +12,6 @@ In late 2000s I built [prestans](https://github.com/anomaly/prestans), a Python 
 Anomaly is boastful of being [Linode](https://www.anomaly.ltd/capabilities/linode/) and [Stripe](https://www.anomaly.ltd/capabilities/stripe/)'s early partners, advocating the use of the alternative cloud and developer first approach to payments.
 
 Active open source projects include:
-- [Anomaly Labs](https://github.com/anomaly), a set of reference repositories for building Web applications using Python, Postgres and React, and managing infrastructure using Terraform.
+- [Gallagher Python Toolkit](https://github.com/anomaly/gallagher), the missing toolkit for extending Gallagher Security's Command Centre, featuring a Python idiomatic client, CLI, TUI and a SQL interface.
+- [Anomaly Labs](https://github.com/anomaly/lab-python-server), a set of reference repositories for building Web applications using Python, Postgres and React, and managing infrastructure using Terraform.
 - [Wattle](https://github.com/wattlehq), a long term project that I've personally led in the local government space working with a couple of forward thinking councils in the Riverina, NSW, Australia. Last year we decided to democratise software for the local government space by open sourcing the intellectual property.
