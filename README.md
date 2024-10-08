@@ -15,3 +15,16 @@ Active open source projects include:
 - [Gallagher Python Toolkit](https://github.com/anomaly/gallagher), the missing toolkit for extending Gallagher Security's Command Centre, featuring a Python idiomatic client, CLI, TUI and a SQL interface.
 - [Anomaly Labs](https://github.com/anomaly/lab-python-server), a set of reference repositories for building Web applications using Python, Postgres and React, and managing infrastructure using Terraform.
 - [Wattle](https://github.com/wattlehq), a long term project that I've personally led in the local government space working with a couple of forward thinking councils in the Riverina, NSW, Australia. Last year we decided to democratise software for the local government space by open sourcing the intellectual property.
+
+As part of our Stripe partnership, I am currently working towards achieving various credentials:
+
+<div style="flex">
+<a href="https://stripecertifications.credential.net/d7c7856f-fe8e-4343-a9a2-fc38716c6cab" target="_blank">
+<img src="https://github.com/devraj/devraj/blob/master/assets/badge-stripe-fundamentals.png" height="100" alt="Github Fundamentals Badge"/>
+</a>
+<a href="https://stripecertifications.credential.net/31466841-e328-4bb3-a6af-badc52e9ff68" target="_blank">
+<img src="https://github.com/devraj/devraj/blob/master/assets/badge-stripe-associate-developer.png" height="100" alt="Github Associate Developer Badge"/>
+</a>
+</div>
+
+
