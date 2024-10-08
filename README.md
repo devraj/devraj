@@ -19,12 +19,7 @@ Active open source projects include:
 As part of our Stripe partnership, I am currently working towards achieving various credentials:
 
 <div style="flex">
-<a href="https://stripecertifications.credential.net/d7c7856f-fe8e-4343-a9a2-fc38716c6cab" target="_blank">
-<img src="https://github.com/devraj/devraj/blob/master/assets/badge-stripe-fundamentals.png" height="100" alt="Github Fundamentals Badge"/>
-</a>
-<a href="https://stripecertifications.credential.net/31466841-e328-4bb3-a6af-badc52e9ff68" target="_blank">
-<img src="https://github.com/devraj/devraj/blob/master/assets/badge-stripe-associate-developer.png" height="100" alt="Github Associate Developer Badge"/>
-</a>
+<a href="https://stripecertifications.credential.net/d7c7856f-fe8e-4343-a9a2-fc38716c6cab" target="_blank"><img src="https://github.com/devraj/devraj/blob/master/assets/badge-stripe-fundamentals.png" height="100" alt="Github Fundamentals Badge"/></a><a href="https://stripecertifications.credential.net/31466841-e328-4bb3-a6af-badc52e9ff68" target="_blank"><img src="https://github.com/devraj/devraj/blob/master/assets/badge-stripe-associate-developer.png" height="100" alt="Github Associate Developer Badge"/></a>
 </div>
 
 
