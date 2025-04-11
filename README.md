@@ -9,7 +9,7 @@ After graduating I started Anomaly, a software engineering and design firm where
 
 In late 2000s I built [prestans](https://github.com/anomaly/prestans), a Python framework that allowed building APIs (based on REST principles) with features like [payload validation](https://prestans.readthedocs.io/en/latest/validation.html), [partial content rendering](https://prestans.readthedocs.io/en/latest/handlers.html#minifying-content), attributes that you will find in many modern frameworks. It also featured what we called [Blueprint](https://github.com/anomaly/prestans/issues/92) an idea akin to Swagger. The framework also featured tight integration with [Google Closure](https://developers.google.com/closure) and allowed us to build single page apps before they were the cool thing to do.
 
-Anomaly is boastful of being [Linode](https://www.anomaly.ltd/capabilities/linode/) and [Stripe](https://www.anomaly.ltd/capabilities/stripe/)'s early partners, advocating the use of the alternative cloud and developer first approach to payments.
+Anomaly is one of [Stripe](https://www.anomaly.ltd/capabilities/stripe/)'s early partners.
 
 Active open source projects include:
 - [Gallagher Python Toolkit](https://github.com/anomaly/gallagher), the missing toolkit for extending Gallagher Security's Command Centre, featuring a Python idiomatic client, CLI, TUI and a SQL interface.
