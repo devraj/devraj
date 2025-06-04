@@ -1,6 +1,8 @@
 # Design and Engineering [@Anomaly](https://github.com/anomaly)
 
-I am software engineer with over 20 years of experience. I've been tinkering with computers sine 1988, when my dad decided to digitise his business after a visit to Japan, where he realised the potenital of what these machines could do. My first go at programming was in the early nineties using a now defunct programming language called [FoxPro](https://en.wikipedia.org/wiki/FoxPro). In the mid nineties I rewrote a business management software for my dad's business which is now available on the [Github](https://github.com/devraj/zoom) as relic.
+I primarily work as a software engineer. 
+
+I've been tinkering with computers sine 1988, when my dad decided to digitise his business after a visit to Japan, where he realised the potenital of what these machines could do. My first go at programming was in the early nineties using a now defunct programming language called [FoxPro](https://en.wikipedia.org/wiki/FoxPro). In the mid nineties I rewrote a business management software for my dad's business which is now available on the [Github](https://github.com/devraj/zoom) as relic.
 
 I received my formative education between two highly prestigious schools, [The Scindia School](https://en.wikipedia.org/wiki/Scindia_School) in Gwalior, India and [The Southport School](https://en.wikipedia.org/wiki/Southport_School) in the Gold Coast, Australia.
 Following that I studied computer science at [Charles Sturt University](https://www.csu.edu.au) in [Wagga Wagga](https://en.wikipedia.org/wiki/Wagga_Wagga), [Australia](https://en.wikipedia.org/wiki/Australia).
